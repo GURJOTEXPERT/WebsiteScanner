@@ -13,7 +13,7 @@ This is a Python-based website scanner tool that combines port scanning, SSL/TLS
 1. Clone the repository:
     ```
     git clone https://github.com/GURJOTEXPERT/WebsiteScanner/
-    cd website_scanner
+    cd WebsiteScanner
     ```
 
 2. Install Python dependencies:
