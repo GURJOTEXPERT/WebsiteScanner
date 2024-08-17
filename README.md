@@ -32,3 +32,5 @@ Replace `<url>` with the target website URL.
 
 - `website_scanner.py`: Main script for scanning.
 - `utils/`: Directory containing utility scripts for different scanning functionalities.
+
+[View the PDF](https://github.com/GURJOTEXPERT/WebsiteScanner/blob/main/Website%20Scanner%20Tool%20Documentation.pdf)
