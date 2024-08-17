@@ -34,3 +34,6 @@ Replace `<url>` with the target website URL.
 - `utils/`: Directory containing utility scripts for different scanning functionalities.
 
 [View the PDF](https://github.com/GURJOTEXPERT/WebsiteScanner/blob/main/Website%20Scanner%20Tool%20Documentation.pdf)
+
+<embed src="https://github.com/GURJOTEXPERT/WebsiteScanner/blob/main/Website%20Scanner%20Tool%20Documentation.pdf" width="600" height="500" alt="pdf" />
+
