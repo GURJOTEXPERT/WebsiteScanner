@@ -35,5 +35,10 @@ Replace `<url>` with the target website URL.
 
 [View the PDF](https://github.com/GURJOTEXPERT/WebsiteScanner/blob/main/Website%20Scanner%20Tool%20Documentation.pdf)
 
-<embed src="https://github.com/GURJOTEXPERT/WebsiteScanner/blob/main/Website%20Scanner%20Tool%20Documentation.pdf" width="600" height="500" alt="pdf" />
+<iframe src="https://github.com/GURJOTEXPERT/WebsiteScanner/blob/main/Website%20Scanner%20Tool%20Documentation.pdf" 
+        width="100%" 
+        height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: 
+    <a href="https://github.com/GURJOTEXPERT/WebsiteScanner/blob/main/Website%20Scanner%20Tool%20Documentation.pdf">Download PDF</a>.
+</iframe>
 
